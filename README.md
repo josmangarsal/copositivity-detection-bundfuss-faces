@@ -41,7 +41,7 @@ where options are:
   -?, -h, --help                      display usage information
 ```
 
-*Remainder:* Matrix dim 3 and dim 5 (Horn) is harcoded, Run them using:
+*Remainder:* Matrix dim 3 and dim 5 (Horn) is harcoded, run them using:
 - `run -n 3 -D <division_method>`
 - `run -n 5 -D <division_method>`
 
