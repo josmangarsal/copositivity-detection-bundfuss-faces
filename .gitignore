@@ -1,0 +1,4 @@
+*.pyc
+build/
+run
+error.txt
