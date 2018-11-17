@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 
-### C++17
+### - C++17
 
 ### - Python3
 With numpy and scipy for matrix null space and LP.
